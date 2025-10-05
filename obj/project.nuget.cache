@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zQPjFdLCTs4=",
+  "dgSpecHash": "ajzcozbGNAMMDrhlDT6MJJQmspIPG4YqDt0Si+zPWm9F5E8xshjiMY8Wv2JCzE+PzMpY0wIDIldTuLNsWBrizQ==",
   "success": true,
-  "projectFilePath": "E:\\Project_Cymple\\CympleFaceTracking\\CympleFaceTracking.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/izayoisakuya/CympleFaceTracking_for_linux/CympleFaceTracking.csproj",
+  "expectedPackageFiles": [
+    "/home/izayoisakuya/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/izayoisakuya/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/home/izayoisakuya/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/home/izayoisakuya/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/izayoisakuya/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
