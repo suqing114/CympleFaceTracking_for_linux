@@ -13,7 +13,6 @@ The VRCFT module for [Project Cymple](https://github.com/Dominocs/Project_Cymple
 - 移除了对 Windows API GetPrivateProfileString 的依赖，加入了简单跨平台的 INI 解析器。
 - 消除了硬编码用户路径，改为动态读取当前用户主目录（HOME / SpecialFolder.UserProfile）。
 - 增强了 UDP 端口绑定的容错（端口占用时不会抛出异常并崩溃）。
-- 添加了调试日志（接收数据头与解析后关键字段），便于排查数据格式与字节序问题。
 
 ## 构建（Linux）
 
